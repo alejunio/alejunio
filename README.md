@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @alejunio
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, esse é o meu perfil oficial @alejunio
+- 👀 Sempre estou de olho em :  Cloud, DevOps, Hosting, Apps.
+- 🌱 Atualmente estou estudando sobre: Automações Infraestrutura, Github Actions
+- 💞️ Sites pessoais e profissionais: https://alejunio.cloud https://alexjunio.com.br
+- 📫 Fale comigo ... contato@alejunio.cloud
 
 <!---
 alejunio/alejunio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
