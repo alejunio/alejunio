@@ -1,7 +1,9 @@
-- 👋 Olá, esse é o meu perfil oficial @alejunio
-- 👀 Sempre estou de olho em :  Cloud, DevOps, Hosting, Apps.
-- 🌱 Atualmente estou estudando sobre: Automações Infraestrutura, Github Actions
-- 💞️ Sites pessoais e profissionais: https://alejunio.cloud https://alexjunio.com.br
+# Bem vindo
+
+- 💼 Arquiteto Cloud e DevOps Engineer
+- ⚙️ Stack : Kubernetes, Docker Swarm, Linux, Nginx, Terraform, Ansible, AWS, GCP, Azure.
+- 🌱 Atualmente estou estudando sobre: Aprofundando em Terraform, Conhecendo o Github Actions
+- 💻 Site: https://alejunio.cloud e https://alexjunio.com.br
 - 📫 Fale comigo ... contato@alejunio.cloud
 
 <!---
