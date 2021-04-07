@@ -1,4 +1,4 @@
-# Bem vindo
+# Bem vindo(a) !!! :)
 
 - 💼 Arquiteto Cloud e DevOps Engineer
 - ⚙️ Stack : Kubernetes, Docker Swarm, Linux, Nginx, Terraform, Ansible, AWS, GCP, Azure.
