@@ -1,8 +1,8 @@
 # Bem vindo(a) !!! :)
 
-- 💼 Cloud Engineer / DevOps / 
-- ⚙️ Stack : Kubernetes, Docker Swarm, Linux, Nginx, Terraform, AWS, GCP.
-- 🌱 Atualmente estou estudando sobre: Aprofundando em Terraform, Conhecendo o Github Actions
+- 💼 AWS Architect / Support Cloud / DevOps 
+- ⚙️ Skills : Kubernetes, Docker Swarm, Linux, Nginx, Terraform, AWS, GCP.
+- 📙 Projeto atual: Desenvolvendo arquitetura para Magento 2.4 no AWS Fargate e Estudando Python
 - 💻 Site: https://alexjunio.com.br
 - 📫 Fale comigo ... contato@alexjunio.com.br
 
