@@ -4,7 +4,7 @@
 - ⚙️ Skills : Kubernetes, Docker Swarm, Linux, Nginx, Terraform, AWS, GCP.
 - 📙 Projeto atual: Desenvolvendo arquitetura para Magento 2.4 no AWS Fargate e Estudando Python
 - 💻 [Site](https://alexjunio.com.br) <br>
-- 📺 &nbsp;[Youtube](https://www.youtube.com/@alejuniocloud) <br>
+- 📺 [Youtube](https://www.youtube.com/@alejuniocloud) <br>
 - 📫 Email ... contato@alexjunio.com.br
 - 🏡 &nbsp; Brasil, Montes Claros - MG
 
