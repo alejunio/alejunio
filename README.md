@@ -6,7 +6,7 @@
 - 💻 [Site](https://alexjunio.com.br) <br>
 - 📺 [Youtube](https://www.youtube.com/@alejuniocloud) <br>
 - 📫 Email ... contato@alexjunio.com.br
-- 🏡 &nbsp; Brasil, Montes Claros - MG
+- 🏡 Brasil, Montes Claros - MG
 
 
 ### 📕 Postagens recentes 
