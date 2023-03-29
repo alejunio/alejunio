@@ -20,7 +20,7 @@
 ### 📺 Vídeos no YouTube
 
 <!-- YOUTUBE:START -->
-- [Como instalar o cPanel & WHM no Alma Linux 8 | Setup básico de VPS cPanel para hospedagem de sites]([https://www.youtube.com/watch?v=wkp4hs_i2t4](https://www.youtube.com/watch?v=nA0xH0iYoDE))
+- [Como instalar o cPanel & WHM no Alma Linux 8 | Setup básico de VPS cPanel para hospedagem de sites]([https://www.youtube.com/watch?v=wkp4hs_i2t4](https://www.youtube.com/watch?v=nA0xH0iYoDE)
 - [Curso completo Cloud Amazon Lightsail Para Iniciantes 2023](https://www.youtube.com/watch?v=qQHVDePXvq0)
 - [Configurando DNS Reverso em IP Elástico Amazon AWS / Configuração para servidor de e-mail ](https://www.youtube.com/watch?v=NWC8Bz3wMKE)
 - [Guia Completo: Amazon EC2 para Iniciantes - Criando Servidor EC2 e Visão Geral EC2 ](https://www.youtube.com/watch?v=fe6TJ1l4JhA)
