@@ -5,7 +5,7 @@
 - 📙 Projeto atual: Desenvolvendo arquitetura para Magento 2.4 no AWS Fargate e Estudando Python
 - 💻 [Site](https://alexjunio.com.br) <br>
 - 📺 [Youtube](https://www.youtube.com/@alejuniocloud) <br>
-- 📫 Email ... contato@alexjunio.com.br
+- 📫 Email: contato@alexjunio.com.br
 - 🏡 Brasil, Montes Claros - MG
 
 
