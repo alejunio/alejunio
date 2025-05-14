@@ -2,7 +2,7 @@
 
 - 💼 AWS Architect / Support Cloud / DevOps 
 - ⚙️ Skills : Kubernetes, Docker Swarm, Linux, Nginx, Terraform, AWS, GCP.
-- 📙 Projeto atual: Desenvolvendo arquitetura para Magento 2.4 no AWS Fargate e Estudando Python
+- 📙 Projeto atual: Desenvolvendo arquitetura para Magento 2.4 no AWS Fargate e Estudando API's em Python
 - 💻 [Site](https://alexjunio.com.br) <br>
 - 📺 [Youtube](https://www.youtube.com/@alejuniocloud) <br>
 - 📫 Email: contato@alexjunio.com.br
